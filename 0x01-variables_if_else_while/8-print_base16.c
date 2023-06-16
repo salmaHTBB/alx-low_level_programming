@@ -13,7 +13,7 @@ int main(void)
 		putchar(i);
 
 	for (i = 57; i < 63; i++)
-		putchar(letter);
+		putchar(i);
 
 	putchar('\n');
 
